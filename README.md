@@ -1,7 +1,7 @@
 ### Hey! My name is Leonardo! 👋
 
 - 🔭 I’m currently working on an IT Intership
-- 🌱 I’m currently learning backend ☕
+- 🌱 Learning backend ☕
 - 💬 Contact me: leonardojcv@Outlook.com 📫
 - 😄 Pronouns: He/Him
 
