@@ -1,6 +1,6 @@
 ### Hey! My name is Leonardo! 👋
 
-- 🔭 I’m currently working as IT Intern
+- 🔭 I’m currently working as a Information Technology Intern
 - 🌱 Back-end ☕
 - 💬 Contact me: leonardojcv@Outlook.com 📫
 - 😄 Pronouns: He/Him
