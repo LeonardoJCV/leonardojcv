@@ -5,6 +5,14 @@
 - 🌱 Back-end ☕
 - 💬 Contact me: leonardojcv@Outlook.com 📫
 - 😄 Pronouns: He/Him
+##
+### Olá! Meu nome é Leonardo! 👋
+
+- 🔭 Atualmente estou atuando como estágiario de TI
+- 🚀 Graduando em Analise e Desenvolvimento de Sistemas
+- 🌱 Back-end ☕
+- 💬 Contato: leonardojcv@Outlook.com 📫
+- 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -16,6 +24,9 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="30" src="https://assets.apidog.com/static/logo/apidog-logo-256.png"/>
+  <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg"/>
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1024px-Apache_Maven_logo.svg.png" /> 
 </div>
 
 ##
