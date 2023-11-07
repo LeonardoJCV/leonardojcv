@@ -3,7 +3,7 @@
 Meu nome é Leonardo, sou um desenvolvedor back-end que utiliza como principal técnologia, a linguagem Java e sua mais poderosa framework (Spring)
 Com alguns projetos já desenvolvidos utilizando os mais diversos bancos de dados (PostgreSQL, MySQL e até mesmo NoSQL como MongoDB)
 Atualmente estou atuando como estágiario de TI na prefeitura municipal de Colombo, realizando atividades relacionadas a programação.
-Graduando em ADS e um dos selecionados para o Programa Santander Coders parceria com a Ada Tech 2° Edição.
+Graduando em ADS e um dos selecionados para o Programa Santander Coders em parceria com a Ada Tech 2° Edição.
 ##
 ### Olá! Meu nome é Leonardo! 👋
 - 🔭 Atualmente estou atuando como estágiario de TI
