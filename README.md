@@ -1,18 +1,23 @@
-### Hey! My name is Leonardo! 👋
 
-- 🔭 I’m currently working as a Information Technology Intern
-- 🚀 Graduating in Systems Analysis and Development
-- 🌱 Back-end ☕
-- 💬 Contact me: leonardojcv@Outlook.com 📫
-- 😄 Pronouns: He/Him
+### Olá, tudo bem?
+Meu nome é Leonardo, sou um desenvolvedor back-end que utiliza como principal técnologia, a linguagem Java e sua mais poderosa framework (Spring)
+Com alguns projetos já desenvolvidos utilizando os mais diversos bancos de dados (PostgreSQL, MySQL e até mesmo NoSQL como MongoDB)
+Atualmente estou atuando como estágiario de TI na prefeitura municipal de Colombo, realizando atividades relacionadas a programação.
+Graduando em ADS e um dos selecionados para o Programa Santander Coders parceria com a Ada Tech 2° Edição.
 ##
 ### Olá! Meu nome é Leonardo! 👋
-
 - 🔭 Atualmente estou atuando como estágiario de TI
 - 🚀 Graduando em Analise e Desenvolvimento de Sistemas
 - 🌱 Back-end ☕
 - 💬 Contato: leonardojcv@Outlook.com 📫
 - 😄 Pronomes: Ele/Dele
+##
+### Hey! My name is Leonardo! 👋
+- 🔭 I’m currently working as a Information Technology Intern
+- 🚀 Graduating in Systems Analysis and Development
+- 🌱 Back-end ☕
+- 💬 Contact me: leonardojcv@Outlook.com 📫
+- 😄 Pronouns: He/Him
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
