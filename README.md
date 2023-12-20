@@ -3,7 +3,7 @@
 Meu nome é Leonardo, sou um desenvolvedor back-end que utiliza como principal técnologia a linguagem Java e sua mais poderosa framework (SpringBoot).
 Com alguns projetos já desenvolvidos utilizando os mais diversos bancos de dados sendo eles PostgreSQL, MySQL e até mesmo NoSQL como MongoDB.
 Atuo como estágiario de TI na prefeitura Colombo, realizando atividades relacionadas a programação.
-Graduando em Análise e Desenvolvimento de Sistemas e apaixonado por técnologia!
+Graduando em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia!
 ##
 ### Olá! Meu nome é Leonardo! 👋
 - 🔭 Atualmente estou atuando como estágiario de TI
