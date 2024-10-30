@@ -2,18 +2,18 @@
 ### Olá, tudo bem?
 Meu nome é Leonardo, sou um desenvolvedor back-end que utiliza como principal técnologia a linguagem Java e sua mais poderosa framework (SpringBoot).
 Com diversos projetos já desenvolvidos utilizando os mais diversos bancos de dados sendo eles PostgreSQL, MySQL e até mesmo NoSQL como MongoDB.
-Atuo como estágiario de TI na prefeitura Colombo, realizando atividades relacionadas a programação.
+Atualmente integrado como suporte de tecnologia no contrato da prefeitura municipal de Colombo.
 Graduando em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia!
 ##
 ### Olá! Meu nome é Leonardo! 👋
-- 🔭 Atualmente estou atuando como estágiario de TI
+- 🔭 Atualmente estou integrado como suporte de tecnologia no contrato da prefeitura municipal de Colombo. 
 - 🚀 Graduando em Analise e Desenvolvimento de Sistemas
 - 🌱 Back-end ☕
 - 💬 Contato: leonardojcv@Outlook.com 📫
 - 😄 Pronomes: Ele/Dele
 ##
 ### Hey! My name is Leonardo! 👋
-- 🔭 I’m currently working as a Information Technology Intern
+- 🔭 I'm currently integrated as technology support in the Colombo city hall contract.
 - 🚀 Graduating in Systems Analysis and Development
 - 🌱 Back-end ☕
 - 💬 Contact me: leonardojcv@Outlook.com 📫
