@@ -1,21 +1,21 @@
 
 ### Olá, tudo bem?
-Meu nome é Leonardo, sou um desenvolvedor back-end que utiliza como principal técnologia a linguagem Java e sua mais poderosa framework (SpringBoot).
-Com diversos projetos já desenvolvidos utilizando os mais diversos bancos de dados sendo eles PostgreSQL, MySQL e até mesmo NoSQL como MongoDB.
-Atualmente integrado como suporte de tecnologia no contrato da prefeitura municipal de Colombo.
+Meu nome é Leonardo, sou um desenvolvedor Full-Stack que utiliza como principais técnologias as linguagem Python (Flask) e Typescript (React).
+Com diversos projetos desenvolvidos, sendo o mais recente aplicativo de própria autoria 'NutriDay', desenvolvido em Java para Android (aplicativo de calculo de calorico e consumo diario)
+Atualmente estou integrado como Desenvolvedor Full-Stack na Startup INGEE
 Graduando em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia!
 ##
 ### Olá! Meu nome é Leonardo! 👋
-- 🔭 Atualmente estou integrado como suporte de tecnologia no contrato da prefeitura municipal de Colombo. 
+- 🔭 Atualmente estou integrado como Desenvolvedor Full-Stack na Startup INGEE
 - 🚀 Graduando em Analise e Desenvolvimento de Sistemas
-- 🌱 Back-end ☕
+- 🌱 Full-Stack ☕
 - 💬 Contato: leonardojcv@Outlook.com 📫
 - 😄 Pronomes: Ele/Dele
 ##
 ### Hey! My name is Leonardo! 👋
-- 🔭 I'm currently integrated as technology support in the Colombo city hall contract.
+- 🔭 I'm currently integrated as Full-Stack Developer at Startup INGEE.
 - 🚀 Graduating in Systems Analysis and Development
-- 🌱 Back-end ☕
+- 🌱 Full-Stack ☕
 - 💬 Contact me: leonardojcv@Outlook.com 📫
 - 😄 Pronouns: He/Him
 
