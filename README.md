@@ -1,19 +1,19 @@
 
 ### Olá, tudo bem?
 Meu nome é Leonardo, sou um desenvolvedor Full-Stack que utiliza como principais técnologias as linguagem Python (Flask) e Typescript (React).
-Com diversos projetos desenvolvidos, sendo o mais recente aplicativo de própria autoria 'NutriDay', desenvolvido em Java para Android (aplicativo de calculo de calorico e consumo diario)
-Atualmente estou integrado como Desenvolvedor Full-Stack na Startup INGEE
+Com diversos projetos desenvolvidos.
+Atualmente estou integrado como Engenheiro de software na Startup BayAI
 Graduando em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia!
 ##
 ### Olá! Meu nome é Leonardo! 👋
-- 🔭 Atualmente estou integrado como Desenvolvedor Full-Stack na Startup INGEE
+- 🔭 Atualmente estou integrado como Engenheiro de software/CTO na Startup BayAI
 - 🚀 Graduando em Analise e Desenvolvimento de Sistemas
 - 🌱 Full-Stack ☕
 - 💬 Contato: leonardojcv@Outlook.com 📫
 - 😄 Pronomes: Ele/Dele
 ##
 ### Hey! My name is Leonardo! 👋
-- 🔭 I'm currently integrated as Full-Stack Developer at Startup INGEE.
+- 🔭 I'm currently integrated as Software Engineer/CTO at Startup BayAI.
 - 🚀 Graduating in Systems Analysis and Development
 - 🌱 Full-Stack ☕
 - 💬 Contact me: leonardojcv@Outlook.com 📫
